@@ -1,0 +1,26 @@
+
+.body{
+margin: 0;
+}
+
+
+.header{
+  background-color: blueviolet;
+  color: white;
+  font-size: 30px;
+height: 100px;
+margin-top: 0;
+margin-left: 0;
+margin-right: 0;
+}
+
+.title{
+
+
+float: left;
+
+font-size: 36px;
+
+padding:20px 200px;
+
+}
