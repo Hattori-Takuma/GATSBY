@@ -1,26 +1,119 @@
 
-.body{
+body{
 margin: 0;
+padding: 0;
 }
-
 
 .header{
   background-color: blueviolet;
-  color: white;
-  font-size: 30px;
-height: 100px;
-margin-top: 0;
-margin-left: 0;
-margin-right: 0;
+  color:white;
+font-size: larger;
+font-weight: 800;
+height: 50px;
+margin: 0 auto;
+align-items: center;
+position: relative;
 }
 
 .title{
+  position: absolute;
+  left :20%;
+  top  :7px;
+  margin: 0;
+}
+
+.mySitez{
+  font-size: 20px;
+  font-weight: 700;
+  margin-left: 20%;
+  margin-top: 5%;
+}
+
+.Written{
+  font-size: 0.1px;
+  margin-left: 22%;
+  margin-top: 5px;
+}
+
+.bigbox{
+
+  height: 400px;
+  width: 550px;
+  margin-left: 20%;
+  margin-top: 40pt;
+}
+
+.box12{
+  width: 550px;
+}
+
+.box1{
+  margin-top: 10px;
+  height: 100px;
+  width: 200px;
+  background-color: bisque;
+}
+
+.box2{ 
+  margin-top: 10px;
+  margin-left: 50px;
+    height: 100px;
+  width: 300px;
+
+}
+.p2-1{
+  font-size: medium;
+  font-weight: 700;
+}
+.p2-2{
+  font-size: 0.1px;
+}
+.p2-3{
+  margin-top: 10px;
+  font-size: 0.1px;
+}
 
 
+.box34{
+  width: 550px;
+  margin-top: 30px;
+}
+
+.box3{ 
+    height: 100px;
+  width: 200px;
+  background-color:darkgreen;
+  margin-top: 50px;
+  
+}
+
+.box4{ 
+    height: 100px;
+  width: 300px;
+  
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+.p4-1{
+    font-size: medium;
+  font-weight: 700;
+}
+.p4-2{
+  font-size: 0.1px;
+}
+.p4-3{
+  margin-top: 10px;
+  font-size: 0.1px;
+}
+
+
+
+
+.box1, .box2{
 float: left;
+}
 
-font-size: 36px;
-
-padding:20px 200px;
-
+.box3, .box4{
+float: left;
 }
