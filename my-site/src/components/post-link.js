@@ -1,5 +1,7 @@
 // src/components/post-link.js
 import React from "react"
+
+
 import "../styles/style.css"
 
 const RANDOM_IMG = "https://source.unsplash.com/collection/175083/640x360";
